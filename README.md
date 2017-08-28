@@ -1,6 +1,8 @@
 # kata
 The Katas
 
+http://codekata.pragprog.com/
+
 This repository will contain all solutions for the Katas in (hopefully) different languages.
 
 Languages I want to try are:
